@@ -2,5 +2,5 @@
 
 const companyName = ('Scuber')
 
-let myneighborhood
+let myProfitableNeighborhood = ()
 
